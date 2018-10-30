@@ -7,7 +7,7 @@
 	<groupId>com.hoya.weather</groupId>
 	<artifactId>hy-weather-eureka-server</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>hy-weather-eureka-server</name>
 	<description>hy-weather-eureka-server</description>
